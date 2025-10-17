@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Peter Turner
-- 👀 I’m interested in coding, problem solving, and running
-- 🌱 I’m currently learning Azure AI/ML, AWS Architect, Google Data Engineer, Terraform, Tagalog
-- 💞️ I’m looking to collaborate on gaming projects (in particular the game engine itself)
+- 👋 Hi, I’m `whoami`
+- 👀 I’m interested in *
+- 🌱 I’m currently learning *
+- 💞️ I love *
 
 <!---
 Syntax753/Syntax753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
